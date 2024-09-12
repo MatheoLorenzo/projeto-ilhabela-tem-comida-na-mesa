@@ -1,10 +1,14 @@
 img {
-    width: 5px;
-    height: 5px;
+    width: 25px;
+    height: 25px;
 }
 
 header {
     display: flex;
     flex-direction: row;
 
+}
+
+li {
+    display: inline-block;
 }
